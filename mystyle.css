@@ -1,1 +1,35 @@
-STYLE
+body {
+			background: url(#myUrl),
+		linear-gradient(45deg, rgba(65, 68, 
+		244, 1), rgba(203, 66, 244, 0.5)),
+		rgba(274, 185, 96, 1);
+		background-size: cover;
+		background-blend-mode: screen, 
+		multiply;
+			padding: 2.5%;
+		}
+		
+	h2   { 
+	       font-weight:bold; 
+		   font-size:25px;
+	    }
+	
+	p    { 
+	       font-family: Verdana
+	    }	
+	
+	table   { 
+	       font-family: Verdana
+	    }	
+	
+    h1   { 
+	       font-family: Verdana;   
+		   text-align: center;
+		   font-stretch: expanded;
+		   font-size:55px;
+		   padding: 0.1%;
+		}
+	img	  {
+			border: 7.5px solid #555;
+			
+		}
